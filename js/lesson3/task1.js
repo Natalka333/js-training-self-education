@@ -197,19 +197,19 @@
 
 
 // function  multiply () {
-//   let total = 1 ;
+//   let total = 0;
 //   for (const arg of arguments) { "где arguments это (1, 2, 3)или (1, 2, 3, 4)
-//     total *= arg;
+//     total += arg;
 //   }
 //   return total;
 // }
 
 // console.log(multiply(1, 2, 3));
- // 6
+
 // console.log(multiply(1, 2, 3, 4));
- // 24
+
 // console.log(multiply(1, 2, 3, 4, 5));
-// 120
+
 
 
 // если нужно аргументы перевести в массив для использования методов массива!
